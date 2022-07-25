@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0 ;
+    padding: 0;
+    background-color: black;
+    color: aqua;
+    overflow-x: hidden
+
+
+} 
+
+
+div {
+    margin: 0 auto;
+    padding: 10px 20px !important;
+}
